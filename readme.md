@@ -12,13 +12,16 @@
 | Likes | Dislikes |
 | --- | ----------- |
 | Classical music | Loud music |
-| I bit of a suprise, but raw chocolate | Any sweet that is not raw chocolate |
+| Any sweet that is not raw chocolate| Raw chocolate  |
 | Listening to auido books | |
 
 ### What I want to learn this year.
-  Honestly, I don't know. I've nevere relly done this type of thing. So I know that when I find something that I enjoy I go with it.
+  Honestly, I don't know. I've nevere relly done this type of thing. So I know that 
+  when I find something that I enjoy I go with it.
   
   ### Why Computer science is important to me.
-    Computer science is importante mt me because it will offer me lot's of opportunities later in life. It's a fun thing to learn and will allow me to have new paths opend up in my life. I hope to keep learning.
+    Computer science is importante mt me because it will offer me lot's of
+    opportunities later in life. It's a fun thing to learn and will allow me 
+    to have new paths opend up in my life. I hope to keep learning.
     
-![Here is a fun picture of me!](image.jpg)
+![Here is a fun picture of me!](20220313_183555_4.jpg)
